@@ -8,7 +8,7 @@ Zachary Dwyer
 ## Description
 A command line program that accesses a database filled with Beverage objects. 
 
-## Features
+# Features
 This program allows you to manipulate its connected database by searching, listing, adding, altering and removing beverages.
 
 ### Notes
